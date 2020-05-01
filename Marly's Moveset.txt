@@ -1,0 +1,100 @@
+Fantaji Scholars - About Marly
+Marly's Moveset
+
+Passive Ability: Perfect Echolocation
+	Despite Marly being blind, she can "see" her enemies and allies alike all too well thanks to the powers of sound and motion. Because of this, Marly is Immune to Blinds and can easily target otherwise very evasive enemies.
+		> Marly cannot be Blinded.
+		> Marly's attacks Ignore the target's Speed.
+
+Weapon - Vanguard
+	Attack: Mana Cannon
+		Fires a mana-empowered energy blast that ignores the target's defenses. In other words, this attack deals Raw Damage equal to 500% of the user's current Mana plus 15x the user's Nicety.
+
+Basic Attack - Water Gun
+		Fires a potent watery projectile that Steals 25 Mana from the target and deals damage.
+			Scaling:
+
+
+Spells
+
+					(Moveset 1 - "Config: Offensive")
+
+	Water Gun
+
+	Lock-On
+		The user's next Attack will not miss the target under any circumatance and will also deal twice as much damage to said target.
+
+	"Aim for the Head"
+		This ability costs Marly's entire mana pool. If this attack kills the target, the mana cost is Refunded by 100%. If the target survives the attack, they will be stunned for 1 turn and will take significant Periodic Damage.
+			Debuff: Dazed
+				After taking a nasty blow to the head, this unit is Stunned for 1 turn.
+			Debuff: Cranial Bleeding
+				Despite surviving a shot to the head, this poor bastard is bleeding heavily from the shot, taking 500 (plus 100x their Intelligence) damage over time.
+
+	Feedback
+		Drains the targeted enemy's entire Mana bar and deals damage based on how much Mana was drained.
+
+	Scald
+		Fires a stream of boiling hot water at the targeted enemy, dealing damage and Burning them.
+
+	Heart Attack
+		The user forces the targeted enemy's second heart to briefly shut down, causing said target to take Periodic Damage and Leak Mana for several turns.
+
+	Brain Freeze
+		Damages the targeted enemy and Stuns them for two turns.
+
+	Reboot
+		Stuns Marly for two turns, but Cures her of almost any debuff and allows her to Regenerate all of her HP and Mana. While she is recovering, Marly will be Shielded for 500 damage (+scaling with her Intelligence).
+
+					(Moveset 2 - "Config: Tactical")
+
+	Water Gun
+
+	Lock-On
+		The user's next Attack will not miss the target under any circumstance and will also deal twice as much damage to said target.
+
+	"Aim for the Primary Heart"
+		This attack costs half of Marly's entire current supply of Mana, which is affects the power of this ability. If this attack kills the target, Marly immediately regains 50% of her maximum Mana. The target will take significant Damage Over Time from Marly's attack as well, should it survive.
+
+	Power Swap
+		Swaps all damage-related stats between the caster and an ally.
+
+	Throat Chop
+		Silences the targeted enemy for two turns and deals damage by attacking their throat with a Melee attack.
+
+	Heart Attack
+		The user forces the targeted enemy's second heart to briefly shut down, causing said target to take Periodic Damage and Leak Mana for several turns.
+
+	Brain Freeze
+		Damages the targeted enemy and Stuns them for two turns.
+
+	Reboot
+		Stuns Marly for two turns, but Cures her of almost any debuff and allows her to Regenerate all of her HP and Mana. While she is recovering, Marly will be Shielded for 500 damage (+scaling with her Intelligence).
+
+					(Moveset 3 - "Config: Supportive")
+
+	Water Gun
+
+	"Aim for the Leg"
+		This attack will inflict a Debuff that cripples the target (halving their Nicety and Speed) and causes them to take periodic damage for the rest of the battle until it is Cured.
+
+	Throat Chop
+		Silences the targeted enemy for two turns and deals damage by attacking their throat with a Melee attack.
+
+	Rehydrate
+		Immediately restores a significant percentage of the HP and Mana of three targeted allies and causes them to Regenerate Mana and HP over time. This can also be Self-Cast.
+
+	Aqua Veil
+		Protects your team with Shields that absorb up to 1,000 Damage (+scaling with the caster's Wisdom), Cures Burns, and allows them to Regenerate HP and Mana while each of their Shields are up. While Aqua Veil is active on an ally, they take half as much damage from Fire-based attacks, but twice as much damage from Electric-based attacks.
+			> Every member on your team gets a Shield.
+				> You take 100% less damage from Fire spells, etc.
+				> You take 100% more damage from Electricity spells, etc.
+
+	Heart Attack
+		The user forces the targeted enemy's second heart to briefly shut down, causing said target to take Periodic Damage and Leak Mana for several turns.
+
+	Brain Freeze
+		Damages the targeted enemy and Stuns them for two turns.
+
+	Reboot
+		Stuns Marly for two turns, but Cures her of almost any debuff and allows her to Regenerate all of her HP and Mana. While she is recovering, Marly will be Shielded for 500 damage (+scaling with her Intelligence).
