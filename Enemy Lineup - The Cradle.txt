@@ -1,0 +1,104 @@
+Fantaji Scholars - Enemy Lineups
+The Cradle: Gothic Separatist Temple
+
+General Structure:
+
+		The Cradle will serve as the tipping point in terms of difficulty, where the game becomes noticeably harder (if things go as I hope they do, this shouldn't serve as a problem for players who have gotten fairly good at the game by that point).
+
+		The enemies in The Cradle (Gothic Separatists) generally focus on using the Shadow element and are designed very strictly according to classic RPG classes, etc. When fighting against the Gothic Separatists, you need to consider more about who to attack than "who has the least HP?"
+
+Mooks:
+
+	Gothic Zealot (Warrior Class)
+		These enemies have high HP and have exceptional Strength. They'll try to protect their backline by Taunting your party, forcing you to target them if you want to use Attacks. You typically want to get rid of these guys first.
+
+	Gothic Mage
+		These enemies have a moveset that favors raw damage over most else and will try to focus on shredding your frontline with their Periodic Damage Spells.
+
+	Gothic Ranger
+		These rangers will inflict debuffs on your party with their Attacks.
+
+	Gothic Paladin
+		These tanky enemies don't have as much HP as Zealots, but that's meant to trick players. They have exceptional Defensive Stats and can use Iron Defense to Boost those stats. Better yet, they can use Blessed Darkness to heal themselves and their teammates. They can't use Taunts like Zealots can, though.
+
+	Gothic Nightblade (Rogue Class)
+		Nightblades will try to make a beeline for your backline and buff the Speed of their allies when possible.
+
+	Gothic Priest
+		These priests are unique in that they don't directly heal their teammates. They use combos involving Advanced Retrograde in order to turn their Periodic Damage into Periodic Healing. Disrupt their combos when possible!
+
+Bosses:
+
+	Primordial Construct (Mini-Boss)
+		The Primordial Construct is an entity straight from the next stage (Primordia - the Realm of Darkness), and is awakened by the commotion caused by the fight between you and the Separatists. It's a tough sonovabitch in terms of HP alone, and it's meant to serve as preparation for this stage's boss (as well as preparation for what to expect in the next level).
+
+				Moveset:
+
+		Passive Ability: Ancient Stones
+			This unit cannot be Crippled, Disabled, Nerfed, Paralyzed, Burned, Poisoned, Blinded, Stunned, or Silenced, and also cannot have its HP or Mana Stolen, but it Leaks 2.5% of its HP and Mana after its every turn.
+
+		Basic Attack: Shadow Punch
+			A Melee attack that Ignores the enemy's Shadow Defense and cannot Miss.
+
+					Iron Defense
+						Doubles all of the user's Defensive Stats for five turns. This ability can be Dispelled.
+
+					Torment
+						The targeted enemy is forced to use only Attacks and cannot use the same Attack subsequently for five turns.
+
+					Curse
+						Inflicts the "Cursed" debuff on the targeted enemy, causing them to take Periodic Damage equal to 10% of their total HP every turn they take for 10 turns. This cannot be Cured.
+
+					Reconstruct
+						The construct attempts to rebuild itself, putting it Asleep for three turns, Curing it of most forms of debuffs, Dispelling most of its Buffs, and taking 100% more damage from all sources.
+
+					Enrage
+						The user's rage stimulates their Mana, allowing them to rapidly Regenerate Mana and deal 100% more Direct damage for three turns.
+
+					Bulldoze
+						The user sends a shockwave of magical energy into the ground, damaging all units on the field. This attack cannot hit enemies that aren't touching the ground.
+
+					Phantom Force
+						The user Disappears one turn and attacks the targeted enemy the next. This Attack Ignores Taunts.
+
+					Will-O-Wisp
+						The targeted enemy is inflicted with a Burn, reducing their Power by 75% while taking Periodic Damage, for 5 turns.
+
+	High Prophet Marie Lilium (Boss)
+		The woman you've been chasing for over half of the game is now right in front of you. Apply what you've learned from the game so far in order to defeat this thief!
+
+				Moveset:
+
+		Passive Ability: Prophet of the Dark God
+			Marie is a devout believer in Ruficel, and her faithfulness towards the Old God grants her amazing prowess in the Shadow element, boosting her Shadow Power by 200% and reducing the cooldown of Retrograde to 2.
+
+		Basic Attack: Magic Missile
+			The user fires a spear of dark energies at the targeted enemy, dealing damage that Ignores the target's Shadow Defense.
+
+		Ultimate Ability: Holy Requiem
+			Marie calls upon the might of Ruficel to empower an ally for the rest of the battle, granting said ally the strength of their past generations, buffing them in a unique manner depending on the target.
+				> Marie: All of Marie's Periodic Damage is multiplied by 2 and her Speed is tripled during the enemy team's turn.
+
+					Retrograde
+						Reverses the mechanics of Damage and Healing on the targeted unit for two turns. This does not affect Mana.
+
+					Dark Infusion
+						Damages the targeted unit and inflicts the "Power Trip" buff, causing them to take Periodic Damage (but also causing them to Regenerate Mana) for three turns.
+
+					Willpower
+						Shields the targeted ally for 500 Damage (+250% of the caster's Arcanery) for 5 turns and grants the target the "Freedom" buff, causing them to Regenerate HP while the Shield is active. This Shield cannot be Ignored.
+
+					Implosion
+						After the targeted unit's turn, the effects of Periodic Damage and Periodic Healing from all sources will be amplified to an extreme degree of 300% and 200% respectively.
+
+					Life Tap
+						The user takes damage in order to restore their Mana.
+
+					Nightmare
+						The user subjects the targeted unit to horrifying illusions after putting them to sleep, causing said target to take Periodic Damage.
+
+					Isolation
+						Isolates the targeted enemy in the dark, shadowy abyss of their own mind, Suppressing them for three turns. Suppressed units recieve 75% less healing.
+
+					Shadow Dance
+						Boosts the user's Speed and Arcanery by 2 for two turns.
